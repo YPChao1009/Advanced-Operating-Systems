@@ -1,0 +1,12 @@
+開終端機  make執行Makefile 生出server.out client.out
+在server資料夾裡面開server的終端機，執行   ./server.out
+在client資料夾裡面開client的終端機 執行  ./client.out
+
+
+create: create filename rwr----
+
+write: write filename o或a 輸入字
+
+read: read filename
+
+changemode: changemode filename rw------
